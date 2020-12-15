@@ -29,7 +29,7 @@
     "@types/graphql": "^14.5.0",
     "apollo-server-express": "^2.11.0",
     "dataloader": "^2.0.0",
-    "ecstatic": "2.2.2",
+    "ecstatic": "4.1.4",
     "graphql": "^14.6.0",
     "graphql-tools": "^4.0.7",
     "lodash": "4.17.13",
